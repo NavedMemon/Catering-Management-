@@ -4,7 +4,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p>
-  <img alt="Dot Net" src="https://www.freepik.com/free-vector/gradient-code-logo-with-tagline_11817425.htm#query=laravel%20logo&position=2&from_view=search&track=ais&uuid=01243e15-a7fc-4efb-832a-476441fe209b" />
+  <img alt="Dot Net" src="https://img.freepik.com/free-vector/gradient-code-logo-with-tagline_23-2148811020.jpg?w=826&t=st=1706284688~exp=1706285288~hmac=1591a95bb87357690efd35363ce52eacc007fffbc07845b7cb36eef31262858a" />
 
   <img alt="javascript" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 
